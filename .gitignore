@@ -3,3 +3,8 @@ __pycache__/
 *.pyc
 report/Project_Report.html
 logs/
+
+# course handout and local files (not part of the project)
+Midterm project-1-1.pdf
+.DS_Store
+*.tar.gz
